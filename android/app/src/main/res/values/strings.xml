@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dania抢票</string>
+    <string name="accessibility_service_description">Dania抢票助手需要此权限来自动操作大麦APP完成抢票。服务会自动识别并点击购买按钮。</string>
+</resources>
